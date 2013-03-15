@@ -1,5 +1,5 @@
-chem21labs-userscript
+chem21labs-userstyle
 ================
 
-A userscript to improve the horribly ugly chem21labs.com
+A userstyle to improve the horribly ugly chem21labs.com
 
