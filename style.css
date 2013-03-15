@@ -1,0 +1,65 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("chem21labs.com") {
+
+body > table > tbody > tr > td > p {
+    width: 880px !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body > table > tbody > tr:first-child {
+background-color: #004498 !important;
+}
+
+td {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    background: none !important;
+    padding-right: 15px !important;
+}
+
+font, strong, i {
+    font-family: Verdana,Arial,Helvetica,sans-serif !important;
+    color: black !important;
+    font-size: 14px !important;
+    font-style: normal !important;
+    font-weight: 500;
+}
+
+b, strong {
+    color: red !important;
+}
+
+form > table, td > table[width="900"] {
+margin-left: auto;
+margin-right: auto;
+margin-top: 30px;
+}
+
+a, a font {
+text-decoration: none !important;
+color: #003C76 !important;
+}
+
+a:hover, a font:hover {
+color: #005E98 !important;
+}
+
+font[color="#FF6600"] {
+    color: red !important;
+}
+
+td[align="right"] {
+    text-align: left !important;
+}
+
+td[height="45"] {
+height: 10px !important;
+}
+
+tr[bgcolor="#E6E6E6"] p {
+    padding-left: 10px !important;
+}
+
+}
